@@ -1,0 +1,809 @@
+{
+ "Jaipur": {
+  "places": [
+   {
+    "name": "Amber Fort",
+    "area": "Amer",
+    "category": "Heritage",
+    "hours": "8:00 AM – 5:30 PM",
+    "visit": 150,
+    "ticket": 200,
+    "note": "Hilltop fort complex; allow time for ramparts and courtyards.",
+    "source": "https://www.tourism.rajasthan.gov.in/amber-fort.html"
+   },
+   {
+    "name": "Hawa Mahal",
+    "area": "Old City",
+    "category": "Architecture",
+    "hours": "9:00 AM – 4:30 PM",
+    "visit": 75,
+    "ticket": 50,
+    "note": "The five-storey façade is best appreciated from the street and its museum.",
+    "source": "https://www.tourism.rajasthan.gov.in/hawa-mahal.html"
+   },
+   {
+    "name": "City Palace",
+    "area": "Old City",
+    "category": "Heritage",
+    "hours": "9:30 AM – 5:00 PM",
+    "visit": 120,
+    "ticket": 300,
+    "note": "A living palace complex with museums and courtyards; access varies by ticket.",
+    "source": "https://citypalace.org/"
+   },
+   {
+    "name": "Jantar Mantar",
+    "area": "Old City",
+    "category": "Culture",
+    "hours": "9:00 AM – 4:30 PM",
+    "visit": 90,
+    "ticket": 50,
+    "note": "An 18th-century astronomical observatory and UNESCO World Heritage site.",
+    "source": "https://whc.unesco.org/en/list/1338/"
+   },
+   {
+    "name": "Jal Mahal viewpoint",
+    "area": "Man Sagar Lake",
+    "category": "Photography",
+    "hours": "Daylight",
+    "visit": 35,
+    "ticket": 0,
+    "note": "Lakeside viewpoint; palace interior is not generally open to visitors.",
+    "source": "https://www.tourism.rajasthan.gov.in/jaipur.html"
+   },
+   {
+    "name": "Albert Hall Museum",
+    "area": "Ram Niwas Garden",
+    "category": "Museum",
+    "hours": "9:00 AM – 5:00 PM",
+    "visit": 100,
+    "ticket": 40,
+    "note": "A broad collection in an Indo-Saracenic landmark building.",
+    "source": "https://www.tourism.rajasthan.gov.in/albert-hall-museum.html"
+   },
+   {
+    "name": "Patrika Gate",
+    "area": "Jawahar Circle",
+    "category": "Architecture",
+    "hours": "Daylight",
+    "visit": 35,
+    "ticket": 0,
+    "note": "Colourful public gateway often visited for photography.",
+    "source": "https://www.tourism.rajasthan.gov.in/jaipur.html"
+   },
+   {
+    "name": "Bapu Bazaar",
+    "area": "Old City",
+    "category": "Food & shopping",
+    "hours": "Late morning – evening",
+    "visit": 90,
+    "ticket": 0,
+    "note": "Busy market for textiles, footwear and street snacks; shop hours vary.",
+    "source": "https://www.tourism.rajasthan.gov.in/jaipur.html"
+   }
+  ],
+  "area_order": [
+   "Amer",
+   "Man Sagar Lake",
+   "Old City",
+   "Ram Niwas Garden",
+   "Jawahar Circle"
+  ]
+ },
+ "Hyderabad": {
+  "places": [
+   {
+    "name": "Charminar",
+    "area": "Old City (Ghansi Bazaar), Hyderabad",
+    "category": "Heritage",
+    "hours": "9:00 AM - 5:30 PM",
+    "visit": 60,
+    "ticket": 25,
+    "note": "Built in 1591 by Muhammad Quli Qutb Shah, this four-minaret monument and mosque is protected by the Archaeological Survey of India and stands in the Old City next to Laad Bazaar. Indian entry is about Rs 25 (Rs 20 on cashless payment), with children under 15 commonly listed as free.",
+    "source": "https://hyderabad.telangana.gov.in/tourist-place/charminar/"
+   },
+   {
+    "name": "Golconda Fort",
+    "area": "Ibrahim Bagh, Hyderabad",
+    "category": "Architecture",
+    "hours": "9:00 AM - 5:00 PM",
+    "visit": 120,
+    "ticket": 25,
+    "note": "A Qutb Shahi fortress on a granite hill with eight gates and 87 bastions, known for its acoustics, water-supply system and the Rahban cannon. An evening Sound & Light Show runs on a separate ticket.",
+    "source": "https://telanganatourism.gov.in/partials/destinations/heritage-spots/hyderabad/golconda-fort.html"
+   },
+   {
+    "name": "Chowmahalla Palace",
+    "area": "Motigalli, Khilwat (Old City), Hyderabad",
+    "category": "Culture",
+    "hours": "10:00 AM - 5:00 PM (Friday closed)",
+    "visit": 120,
+    "ticket": 150,
+    "note": "The former seat of the Nizams in the Old City, a sprawling complex of courtyards and halls displaying royal artefacts; the official site recommends reserving about two hours. Closed on Fridays; the ticket counter shuts at 5:00 PM.",
+    "source": "https://www.chowmahalla.in/visit/"
+   },
+   {
+    "name": "Salar Jung Museum",
+    "area": "Dar-ul-Shifa, Hyderabad",
+    "category": "Museum",
+    "hours": "10:00 AM - 6:00 PM (Friday closed)",
+    "visit": 120,
+    "ticket": 50,
+    "note": "One of India's largest museums, holding the collections of Nawab Mir Yousuf Ali Khan (Salar Jung III), including sculptures, manuscripts and the famed Veiled Rebecca. Closed on Fridays and gazetted holidays; last entry and the ticket counter close at 5:15 PM.",
+    "source": "https://salarjungmuseum.in/hours-and-admission/"
+   },
+   {
+    "name": "Laad Bazaar",
+    "area": "Charminar West, Ghansi Bazaar (Old City), Hyderabad",
+    "category": "Food & shopping",
+    "hours": "Shop hours vary (typically about 11:00 AM - 11:00 PM)",
+    "visit": 90,
+    "ticket": 0,
+    "note": "A roughly one-kilometre bangle market beside Charminar that has traded since the Qutb Shahi and Nizam eras, selling lac bangles, pearls, jewellery, silverware, bidriware, saris and fabrics. Individual shop timings vary and the market is busiest in the evening; there is no entry fee.",
+    "source": "https://telanganatourism.gov.in/partials/destinations/regions/hyderabad.html"
+   },
+   {
+    "name": "Hussain Sagar (Tank Bund)",
+    "area": "Tank Bund Road, Hyderabad",
+    "category": "Photography",
+    "hours": "8:00 AM - 10:00 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "A large artificial lake excavated in 1562 during the reign of Ibrahim Quli Qutb Shah, named after Hussain Shah Wali and spanned by the Tank Bund that links Hyderabad and Secunderabad. A monolithic white-granite Buddha statue stands on an island in the middle; walking the bund is free, while boating and water sports are charged separately.",
+    "source": "https://hyderabad.telangana.gov.in/tourist-place/hussain-sagar-lake/"
+   }
+  ],
+  "area_order": [
+   "Old City (Ghansi Bazaar), Hyderabad",
+   "Ibrahim Bagh, Hyderabad",
+   "Motigalli, Khilwat (Old City), Hyderabad",
+   "Dar-ul-Shifa, Hyderabad",
+   "Charminar West, Ghansi Bazaar (Old City), Hyderabad",
+   "Tank Bund Road, Hyderabad"
+  ]
+ },
+ "Chennai": {
+  "places": [
+   {
+    "name": "Kapaleeshwarar Temple",
+    "area": "Mylapore",
+    "category": "Culture",
+    "hours": "5:30 AM - 12:30 PM, 4:00 PM - 9:30 PM",
+    "visit": 45,
+    "ticket": 0,
+    "note": "A major Shiva temple in Mylapore, one of Chennai's oldest neighbourhoods, dedicated to Kapaleeshwarar and Karpagambal and administered by the Tamil Nadu HR&CE Department. It hosts the annual Panguni brahmotsavam and Arupathimoovar festival.",
+    "source": "https://mylaikapaleeswarar.hrce.tn.gov.in/"
+   },
+   {
+    "name": "Fort St. George and Fort Museum",
+    "area": "George Town",
+    "category": "Heritage",
+    "hours": "9:00 AM - 5:00 PM (closed Fridays)",
+    "visit": 90,
+    "ticket": 15,
+    "note": "Completed on 23 April 1644, Fort St. George is maintained by the Archaeological Survey of India as a ticketed monument and now houses the Fort Museum and St Mary's Church. For Indian visitors, entry to the fort is around Rs 5 and to the museum around Rs 15.",
+    "source": "https://www.tamilnadutourism.tn.gov.in/destinations/fort-st-george"
+   },
+   {
+    "name": "Government Museum",
+    "area": "Egmore",
+    "category": "Museum",
+    "hours": "10:30 AM - 6:30 PM (closed Fridays)",
+    "visit": 120,
+    "ticket": 50,
+    "note": "A state government museum spread over 16.25 acres with galleries for archaeology, South Indian bronzes, numismatics and art. Ticket prices and timings can change, so confirm on the official site before visiting.",
+    "source": "https://govtmuseumchennai.org/"
+   },
+   {
+    "name": "San Thome Basilica",
+    "area": "Mylapore",
+    "category": "Architecture",
+    "hours": "5:00 AM - 8:00 PM",
+    "visit": 30,
+    "ticket": 0,
+    "note": "A basilica built over the tomb of St Thomas the Apostle and a National Shrine; it is the seat of the Archdiocese of Madras-Mylapore. The present building, in neo-Gothic style, dates to the late 19th century.",
+    "source": "https://www.santhomechurch.org/"
+   },
+   {
+    "name": "Marina Beach",
+    "area": "Marina (near Triplicane)",
+    "category": "Photography",
+    "hours": "Daylight",
+    "visit": 60,
+    "ticket": 0,
+    "note": "One of the longest urban beaches in the world, running about 13 km along the Bay of Bengal from Fort St. George to the northern edge of Besant Nagar. Swimming is not advised because of strong undercurrents.",
+    "source": "https://www.tamilnadutourism.tn.gov.in/destinations/marina-beach"
+   },
+   {
+    "name": "T. Nagar and Pondy Bazaar",
+    "area": "T. Nagar",
+    "category": "Food & shopping",
+    "hours": "Daytime (shops typically 10:00 AM - 9:00 PM)",
+    "visit": 120,
+    "ticket": 0,
+    "note": "One of Chennai's principal shopping districts, centred on Ranganathan Street, Usman Road and Pondy Bazaar (Sir Thyagaraya Road), known for silk sarees, gold jewellery and street shopping. There are no entry charges; shop timings vary by store.",
+    "source": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai/exploring-chennais-vibrant-shopping-scene"
+   }
+  ],
+  "area_order": [
+   "Mylapore",
+   "George Town",
+   "Egmore",
+   "Marina (near Triplicane)",
+   "T. Nagar"
+  ]
+ },
+ "Mumbai": {
+  "places": [
+   {
+    "name": "Gateway of India",
+    "area": "Apollo Bunder, Colaba, South Mumbai",
+    "category": "Heritage",
+    "hours": "Open all day",
+    "visit": 30,
+    "ticket": 0,
+    "note": "Completed in 1924, this 26-metre Indo-Saracenic basalt arch was built to commemorate the 1911 visit of King George V and Queen Mary, and was the point from which the last British troops left India in 1948. It is a protected monument under the Archaeological Survey of India and stands opposite the Taj Mahal Palace hotel, overlooking the Arabian Sea.",
+    "source": "https://mumbaicity.gov.in/en/tourism/culture-heritage/"
+   },
+   {
+    "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+    "area": "Fort, South Mumbai",
+    "category": "Architecture",
+    "hours": "Open 24 hours",
+    "visit": 45,
+    "ticket": 0,
+    "note": "Designed by British architect F. W. Stevens and completed in 1887, this terminus blends Victorian Gothic Revival with traditional Indian palace architecture. Inscribed as a UNESCO World Heritage Site in 2004, it remains a working station used by more than three million commuters a day.",
+    "source": "https://whc.unesco.org/en/list/945/"
+   },
+   {
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)",
+    "area": "Fort, South Mumbai",
+    "category": "Museum",
+    "hours": "10:15 AM - 6:00 PM",
+    "visit": 120,
+    "ticket": 200,
+    "note": "Founded in 1922, this museum holds collections of Indian sculpture, miniature painting, Himalayan art, decorative arts and natural history. Entry is Rs 200 for an Indian adult visitor; the museum is closed on Republic Day, Maharashtra Day, Independence Day and Gandhi Jayanti, and the ticket counter closes at 5:45 PM.",
+    "source": "https://www.csmvs.in/visit-us.html"
+   },
+   {
+    "name": "Elephanta Caves",
+    "area": "Gharapuri (Elephanta) Island, Mumbai Harbour",
+    "category": "Culture",
+    "hours": "9:00 AM - 5:00 PM",
+    "visit": 180,
+    "ticket": 40,
+    "note": "These rock-cut cave temples, dated to the 6th-7th centuries AD, are famous for the colossal Mahesa-murti bust of Shiva and were inscribed as a UNESCO World Heritage Site. The Rs 40 figure is the ASI entry fee for Indian visitors (widely cited; a small additional island toll may apply), the ferry from the Gateway of India is charged separately, and the caves are closed on Mondays.",
+    "source": "https://asi.nic.in/pages/WorldHeritageElephantaCaves"
+   },
+   {
+    "name": "Marine Drive",
+    "area": "Netaji Subhash Chandra Bose Road, South Mumbai",
+    "category": "Photography",
+    "hours": "Open all day",
+    "visit": 45,
+    "ticket": 0,
+    "note": "Marine Drive is a 3.6-km C-shaped promenade along the Arabian Sea, known as the 'Queen's Necklace' because at night the curving row of streetlights resembles a string of pearls. Lined with Art Deco buildings, it is a popular spot for walks, sunsets and city photography.",
+    "source": "https://maharashtratourism.gov.in/spotlights/marine-drive/"
+   },
+   {
+    "name": "Colaba Causeway",
+    "area": "Colaba, South Mumbai",
+    "category": "Food & shopping",
+    "hours": "Open all day",
+    "visit": 60,
+    "ticket": 0,
+    "note": "Colaba Causeway, officially Shahid Bhagat Singh Road, is a busy commercial street and the land link between Colaba and the Old Woman's Island. It is known for street shopping, antiques and cafes, and lies close to the Fort area and the Gateway of India.",
+    "source": "https://mumbaicity.gov.in/en/tourism/places-of-interest/"
+   }
+  ],
+  "area_order": [
+   "Apollo Bunder, Colaba, South Mumbai",
+   "Fort, South Mumbai",
+   "Gharapuri (Elephanta) Island, Mumbai Harbour",
+   "Netaji Subhash Chandra Bose Road, South Mumbai",
+   "Colaba, South Mumbai"
+  ]
+ },
+ "Bengaluru": {
+  "places": [
+   {
+    "name": "Bangalore Palace",
+    "area": "Vasanth Nagar (Palace Road)",
+    "category": "Heritage",
+    "hours": "10:00 AM - 5:30 PM",
+    "visit": 120,
+    "ticket": 240,
+    "note": "Modelled on Windsor Castle in England, this regal palace features turreted parapets, battlements and intricate wood carvings inside and out. An audio tour is available in seven languages, including English, Hindi and Kannada.",
+    "source": "https://karnatakatourism.org/en/attractions/bangalore-palace"
+   },
+   {
+    "name": "Lalbagh Botanical Garden",
+    "area": "Mavalli / Lalbagh",
+    "category": "Photography",
+    "hours": "9:00 AM - 6:00 PM",
+    "visit": 90,
+    "ticket": 25,
+    "note": "A 240-acre botanical garden established in 1760 and managed by the Department of Horticulture, Government of Karnataka, holding over 2,150 plant species. Its Glass House, modelled on the Crystal Palace in London, hosts the popular biannual flower shows. Entry is free for walkers during early morning and evening hours.",
+    "source": "https://horticulturedir.karnataka.gov.in/21/lalbagh/en"
+   },
+   {
+    "name": "Tipu Sultan's Summer Palace",
+    "area": "Chamarajpet (Albert Victor Road)",
+    "category": "Architecture",
+    "hours": "8:30 AM - 5:30 PM",
+    "visit": 45,
+    "ticket": 20,
+    "note": "An Indo-Islamic two-storey palace completed in 1791 as the summer residence of Mysorean ruler Tipu Sultan, within the walls of the old Bangalore Fort. It is maintained by the Archaeological Survey of India and houses a museum with artefacts from the Hyder Ali-Tipu era; ASI entry is about Rs.20 for Indian visitors.",
+    "source": "https://bengaluruurban.nic.in/en/tourist-place/tipu-sultans-summer-palace/"
+   },
+   {
+    "name": "Visvesvaraya Industrial and Technological Museum (VITM)",
+    "area": "Kasturba Road (near Cubbon Park)",
+    "category": "Museum",
+    "hours": "9:30 AM - 6:00 PM",
+    "visit": 120,
+    "ticket": 100,
+    "note": "A science and technology museum opened in 1962 and run by the National Council of Science Museums under the Ministry of Culture, Government of India. Highlights include a 1:1 scale replica of the Wright Brothers' Flyer, a flyer simulator and a life-sized animated Spinosaurus; the general visitor entry fee was revised to Rs.100 with effect from 01.04.2026.",
+    "source": "https://www.vismuseum.gov.in/"
+   },
+   {
+    "name": "ISKCON Sri Radha Krishna Temple",
+    "area": "Rajajinagar (Hare Krishna Hill)",
+    "category": "Culture",
+    "hours": "7:15 AM - 1:00 PM, 4:15 PM - 8:30 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "A major Krishna temple on Hare Krishna Hill, run by ISKCON Bangalore as a charitable society. Entry is free (nominal charges apply for parking and the footwear stand), and photography is not permitted in the temple interiors.",
+    "source": "https://www.iskconbangalore.org/sri-radha-krishna-temple/"
+   },
+   {
+    "name": "Commercial Street",
+    "area": "Tasker Town, Shivajinagar",
+    "category": "Food & shopping",
+    "hours": "11:00 AM - 9:00 PM (most shops)",
+    "visit": 90,
+    "ticket": 0,
+    "note": "One of Bengaluru's oldest and busiest shopping streets, near MG Road, known for its trade in clothes, footwear, jewellery and electronics along with food joints. Bargaining is common, and the side lanes hold fabric and tailoring shops.",
+    "source": "https://bengaluruurban.nic.in/en/tourism/tourist-attractions/"
+   }
+  ],
+  "area_order": [
+   "Vasanth Nagar (Palace Road)",
+   "Mavalli / Lalbagh",
+   "Chamarajpet (Albert Victor Road)",
+   "Kasturba Road (near Cubbon Park)",
+   "Rajajinagar (Hare Krishna Hill)",
+   "Tasker Town, Shivajinagar"
+  ]
+ },
+ "Agra": {
+  "places": [
+   {
+    "name": "Taj Mahal",
+    "area": "Taj Ganj, south bank of the Yamuna",
+    "category": "Heritage",
+    "hours": "Sunrise to sunset (closed Fridays)",
+    "visit": 120,
+    "ticket": 50,
+    "note": "Mausoleum built by Shah Jahan from 1632 in memory of Mumtaz Mahal and a UNESCO World Heritage Site. Indian entry is Rs 50 with an optional extra Rs 200 to enter the main mausoleum; children under 15 enter free.",
+    "source": "https://agra.nic.in/tourist-place/tajmahal/"
+   },
+   {
+    "name": "Agra Fort",
+    "area": "Rakabganj, city centre near the Yamuna",
+    "category": "Architecture",
+    "hours": "Sunrise to sunset (approx. 6:00 AM - 6:00 PM)",
+    "visit": 90,
+    "ticket": 50,
+    "note": "UNESCO World Heritage Site rebuilt in red sandstone by Emperor Akbar from 1565 and later embellished in white marble by Shah Jahan. Visitors enter through the Amar Singh Gate, and part of the fort is still held by the Indian Army.",
+    "source": "https://asi.nic.in/pages/WorldHeritageAgraFort"
+   },
+   {
+    "name": "Fatehpur Sikri",
+    "area": "Fatehpur Sikri, about 36-40 km west of Agra on NH-21",
+    "category": "Heritage",
+    "hours": "Sunrise to sunset (approx. 6:00 AM - 6:00 PM)",
+    "visit": 150,
+    "ticket": 50,
+    "note": "Akbar's capital from 1571 and a UNESCO World Heritage Site, containing the 54-metre Buland Darwaza and the marble Tomb of Sheikh Salim Chishti. It is a separate town well outside Agra city, so budget travel time to and from the site.",
+    "source": "https://asi.nic.in/pages/WorldHeritageFatehpurSikri"
+   },
+   {
+    "name": "Akbar's Tomb, Sikandra",
+    "area": "Sikandra, about 10 km from the city centre on NH-19",
+    "category": "Heritage",
+    "hours": "Sunrise to sunset (open all days)",
+    "visit": 60,
+    "ticket": 30,
+    "note": "Begun by Emperor Akbar himself and completed by Jahangir in 1613, the five-storeyed sandstone-and-marble tomb stands in a 119-acre charbagh garden. Its gateway and pyramid blend Hindu, Islamic and Persian motifs.",
+    "source": "https://agra.nic.in/tourist-place/akbars-tomb-sikandra/"
+   },
+   {
+    "name": "Tomb of Itimad-ud-Daulah (Baby Taj)",
+    "area": "Left bank of the Yamuna, about 4 km from Agra Fort",
+    "category": "Architecture",
+    "hours": "Sunrise to sunset (open all days)",
+    "visit": 45,
+    "ticket": 30,
+    "note": "Built between 1622 and 1628 by Empress Nur Jahan for her father Mirza Ghiyas Beg, it is the first Mughal structure built entirely of white marble and the first to use pietra dura inlay extensively. Its jali screens and inlay work are seen at far less crowded conditions than the Taj Mahal.",
+    "source": "https://agra.nic.in/tourist-place/tomb-of-itimad-ud-daulah-baby-taj/"
+   },
+   {
+    "name": "Mehtab Bagh",
+    "area": "Left bank of the Yamuna, directly opposite the Taj Mahal",
+    "category": "Photography",
+    "hours": "Sunrise to sunset (open all days)",
+    "visit": 45,
+    "ticket": 25,
+    "note": "Restored Mughal charbagh aligned with the Taj Mahal across the Yamuna, and the standard vantage point for photographing the monument at sunset. Excavations here revealed an octagonal tank with 25 fountains.",
+    "source": "https://agra.nic.in/tourist-place/mehtab-bagh/"
+   }
+  ],
+  "area_order": [
+   "Taj Ganj, south bank of the Yamuna",
+   "Rakabganj, city centre near the Yamuna",
+   "Fatehpur Sikri, about 36-40 km west of Agra on NH-21",
+   "Sikandra, about 10 km from the city centre on NH-19",
+   "Left bank of the Yamuna, about 4 km from Agra Fort",
+   "Left bank of the Yamuna, directly opposite the Taj Mahal"
+  ]
+ },
+ "Udaipur": {
+  "places": [
+   {
+    "name": "City Palace Museum",
+    "area": "City Palace Complex, Old City (near Lake Pichola)",
+    "category": "Museum",
+    "hours": "9:00 AM - 9:00 PM",
+    "visit": 120,
+    "ticket": 400,
+    "note": "Housed in the 450-year-old City Palace, the museum opened to the public in 1969 under the Maharana of Mewar Charitable Foundation and displays Mewar textiles, paintings and silver. It follows a uniform 'one fee' policy of INR 400; children below 5 and differently-abled visitors enter free.",
+    "source": "https://www.citypalacemuseum.org/docs/faq.pdf"
+   },
+   {
+    "name": "Lake Pichola",
+    "area": "Old City (surrounded by City Palace, ghats and island palaces)",
+    "category": "Photography",
+    "hours": "Daylight",
+    "visit": 90,
+    "ticket": 0,
+    "note": "Udaipur's oldest and largest lake, created in 1362 AD during Maharana Lakha's reign and later expanded by Maharana Udai Singh II; it contains the island palaces of Jagniwas and Jagmandir. Access to the lakefront is free, but boat rides are charged separately.",
+    "source": "https://www.tourism.rajasthan.gov.in/lake-pichola.html"
+   },
+   {
+    "name": "Jag Mandir",
+    "area": "Jagmandir Island, Lake Pichola",
+    "category": "Architecture",
+    "hours": "10:00 AM - 6:00 PM",
+    "visit": 90,
+    "ticket": 0,
+    "note": "A 17th-century island palace on Lake Pichola also known as the Lake Garden Palace; Prince Khurram, later Shah Jahan, is said to have taken refuge here. It is reachable only by boat from the City Palace jetty - island entry is free, but the boat ride is charged.",
+    "source": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur/jag-mandir-palace"
+   },
+   {
+    "name": "Saheliyon-ki-Bari",
+    "area": "North Udaipur, below Fateh Sagar Lake embankment",
+    "category": "Heritage",
+    "hours": "9:00 AM - 7:00 PM",
+    "visit": 60,
+    "ticket": 30,
+    "note": "An 18th-century garden built by Maharana Sangram Singh as a retreat for the queen and her maidens, with marble pavilions and lotus pools. Its fountains are gravity-fed from Fateh Sagar Lake. The Indian entry fee was revised to INR 30 in 2024.",
+    "source": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur/saheliyon-ki-bari"
+   },
+   {
+    "name": "Jagdish Temple",
+    "area": "Jagdish Chowk, Old City (near City Palace)",
+    "category": "Culture",
+    "hours": "4:30 AM - 1:00 PM, 5:00 PM - 8:00 PM",
+    "visit": 30,
+    "ticket": 0,
+    "note": "A large Indo-Aryan temple dedicated to Lord Jagannath (a form of Vishnu), reached by a flight of steps close to the City Palace. Entry is free and it remains an active place of worship, so hours can vary on festival days.",
+    "source": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur/jagdish-temple"
+   },
+   {
+    "name": "Sajjangarh Monsoon Palace",
+    "area": "Bansdara Hill, Sajjangarh (about 5 km west of the city)",
+    "category": "Photography",
+    "hours": "9:00 AM - 5:30 PM",
+    "visit": 90,
+    "ticket": 65,
+    "note": "A 19th-century palace on Bansdara hill built by Maharana Sajjan Singh, originally planned as an astronomical centre, offering panoramic views over Udaipur and its lakes. Hours are 9:00 AM - 5:30 PM in summer and close at 5:00 PM in winter; the INR 65 Indian entry figure is as listed on the Udaipur Smart City portal.",
+    "source": "https://www.tourism.rajasthan.gov.in/monsoon-palace.html"
+   }
+  ],
+  "area_order": [
+   "City Palace Complex, Old City (near Lake Pichola)",
+   "Old City (surrounded by City Palace, ghats and island palaces)",
+   "Jagmandir Island, Lake Pichola",
+   "North Udaipur, below Fateh Sagar Lake embankment",
+   "Jagdish Chowk, Old City (near City Palace)",
+   "Bansdara Hill, Sajjangarh (about 5 km west of the city)"
+  ]
+ },
+ "Mysore": {
+  "places": [
+   {
+    "name": "Mysuru Palace (Amba Vilas Palace)",
+    "area": "City centre, Sayyaji Rao Road, Agrahara",
+    "category": "Heritage",
+    "hours": "10:00 AM - 5:30 PM",
+    "visit": 120,
+    "ticket": 150,
+    "note": "Built 1897-1912 in the Indo-Saracenic style to a design by Henry Irwin, it is the seat of the Wodeyar dynasty and is illuminated with about 97,000 bulbs on Sundays and public holidays from 7:00 to 8:00 PM. Photography is not allowed inside the palace.",
+    "source": "https://mysorepalace.karnataka.gov.in/timings.html"
+   },
+   {
+    "name": "Chamundi Hill & Sri Chamundeshwari Temple",
+    "area": "Chamundi Hill, about 13 km from the city",
+    "category": "Photography",
+    "hours": "7:30 AM - 2:00 PM, 3:30 PM - 6:00 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "The temple of the goddess Chamundeshwari, tutelary deity of the Mysuru royal family, sits atop the hill about 1,000 m above sea level and can be reached by road or by a climb of 1,008 stone steps; a colossal granite Nandi stands halfway up. The summit offers panoramic views over Mysuru's palaces, lakes and neighbourhoods, and general darshan is free (paid special-entry gates also exist).",
+    "source": "https://chamundeshwaritemple.in/"
+   },
+   {
+    "name": "Jaganmohan Palace (Sri Jayachamarajendra Art Gallery)",
+    "area": "Jaganmohan Palace Road, opposite the City Bus Stand",
+    "category": "Museum",
+    "hours": "10:00 AM - 5:30 PM",
+    "visit": 90,
+    "ticket": 20,
+    "note": "Built in 1861 by Mummadi Krishnaraja Wodeyar, the palace was converted into an art gallery in 1915 and holds Mysore-style paintings, works by Raja Ravi Varma and a collection of artefacts. Entry prices are reported inconsistently across listings (about Rs 20-40 for Indian adults), so confirm at the counter.",
+    "source": "https://mysore.nic.in/en/tourist-place/jaganmohan-palace/"
+   },
+   {
+    "name": "Mysuru Zoo (Sri Chamarajendra Zoological Gardens)",
+    "area": "Zoo Main Road, Indiranagar",
+    "category": "Wildlife",
+    "hours": "8:30 AM - 5:30 PM (closed Tuesdays)",
+    "visit": 150,
+    "ticket": 120,
+    "note": "Started in 1892 by Chamaraja Wodeyar X as a private royal zoo and opened to the public in 1920, it now spreads over about 250 acres and houses 149 species. Entry is allowed until 4:30 PM; the zoo is closed on Tuesdays except during Dasara.",
+    "source": "https://www.mysuruzoo.info/public/visit"
+   },
+   {
+    "name": "St Philomena's Cathedral (St Joseph's Cathedral)",
+    "area": "Ashoka Road, Lashkar Mohalla",
+    "category": "Architecture",
+    "hours": "6:00 AM - 8:00 PM",
+    "visit": 45,
+    "ticket": 0,
+    "note": "A Neo-Gothic cathedral built in 1936 during the reign of Krishnaraja Wadiyar IV, inspired by Cologne Cathedral, with twin spires about 175 feet tall and stained-glass windows; it is among the tallest churches in Asia. Entry is free and photography is permitted outside, with discretion inside.",
+    "source": "https://mysorestphilomenachurch.com/"
+   },
+   {
+    "name": "Devaraja Market",
+    "area": "Sayyaji Rao Road, Devaraja Mohalla",
+    "category": "Food & shopping",
+    "hours": "6:00 AM - 9:30 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "Constructed in 1886 over the Dewan Poornaiah Canal and named after the Wodeyar ruler Dodda Devaraja, this covered heritage market is a maze of stalls selling flowers, fruits, vegetables, spices, sandalwood and kumkum. It is a working wholesale market and a popular spot for photography; entry is free.",
+    "source": "https://karnatakatourism.org/en/updates/mysuru-e-brochure"
+   }
+  ],
+  "area_order": [
+   "City centre, Sayyaji Rao Road, Agrahara",
+   "Chamundi Hill, about 13 km from the city",
+   "Jaganmohan Palace Road, opposite the City Bus Stand",
+   "Zoo Main Road, Indiranagar",
+   "Ashoka Road, Lashkar Mohalla",
+   "Sayyaji Rao Road, Devaraja Mohalla"
+  ]
+ },
+ "Khajuraho": {
+  "places": [
+   {
+    "name": "Kandariya Mahadeva Temple",
+    "area": "Western Group of Temples, Khajuraho",
+    "category": "Heritage",
+    "hours": "Sunrise to sunset",
+    "visit": 45,
+    "ticket": 40,
+    "note": "The largest and grandest temple at Khajuraho, attributed to Chandella king Ganda (AD 1017-29) and dedicated to Shiva, with a shikhara rising about 31 m. Admitted on the single Western Group ticket (Rs 40 for Indian visitors, Rs 600 for foreign nationals, children under 15 free).",
+    "source": "https://asi.nic.in/pages/WorldHeritageKhajuraho"
+   },
+   {
+    "name": "Lakshmana Temple",
+    "area": "Western Group of Temples, Khajuraho",
+    "category": "Architecture",
+    "hours": "8:00 AM - 6:00 PM",
+    "visit": 45,
+    "ticket": 40,
+    "note": "A 10th-century Vaishnava temple built under Chandella king Yasovarman and dedicated to Vaikuntha Vishnu; it is the only Khajuraho temple that preserves all four subsidiary shrines and the full jagati friezes. Covered by the same Western Group ticket (Rs 40 Indian, Rs 600 foreign).",
+    "source": "https://www.incredibleindia.gov.in/en/madhya-pradesh/khajuraho/lakshmana-temple"
+   },
+   {
+    "name": "Vishvanatha Temple",
+    "area": "Western Group of Temples, Khajuraho",
+    "category": "Heritage",
+    "hours": "Sunrise to sunset",
+    "visit": 30,
+    "ticket": 40,
+    "note": "A Shiva temple of the reign of Chandella king Dhanga that anticipates in plan and ornamentation the later Kandariya Mahadeva, with a detached Nandi pavilion facing the sanctum. Included in the Western Group ticket.",
+    "source": "https://asi.nic.in/pages/WorldHeritageKhajuraho"
+   },
+   {
+    "name": "Chausath Yogini Temple",
+    "area": "Near Western Group (southwest of Shiva Sagar lake), Khajuraho",
+    "category": "Culture",
+    "hours": "Sunrise to sunset",
+    "visit": 20,
+    "ticket": 0,
+    "note": "The oldest surviving temple at Khajuraho, built in coarse granite in the late 9th century and dedicated to the 64 yoginis; it is rectangular, unlike most Chausath Yogini temples, with 35 of its original cells still standing. It sits just outside the main ticketed Western Group enclosure and is generally free to enter, so confirm ticketing at the gate.",
+    "source": "https://whc.unesco.org/en/tentativelists/6804/"
+   },
+   {
+    "name": "Eastern Group of Temples (Parshvanatha and Adinatha Jain Temples)",
+    "area": "Eastern Group, Khajuraho",
+    "category": "Culture",
+    "hours": "Sunrise to sunset",
+    "visit": 40,
+    "ticket": 0,
+    "note": "The Eastern Group holds the Jain temple cluster, whose oldest and grandest members are the Parshvanatha and Adinatha temples; unlike the protected Western Group temples these remain active places of Digambara Jain worship. Entry to the Eastern Group is free.",
+    "source": "https://www.mptourism.com/jain-temples-of-khajuraho-madhya-pradesh-india.html"
+   },
+   {
+    "name": "Archaeological Museum, Khajuraho",
+    "area": "Near Western Group of Temples, Khajuraho",
+    "category": "Museum",
+    "hours": "9:00 AM - 5:00 PM (closed Fridays)",
+    "visit": 45,
+    "ticket": 30,
+    "note": "An ASI museum, opened in its present building in 1967 from the earlier 1910 Jardine collection, displaying Chandela-period sculpture including a four-headed Vaikuntha Vishnu. Closed on Fridays; the official Museums of India listing gives Rs 30 for Indian visitors, and a same-day Western Group ticket also admits, so confirm the current fee at the counter.",
+    "source": "https://www.museumsofindia.org/museum/12327/archaeological-museum-khajuraho"
+   }
+  ],
+  "area_order": [
+   "Western Group of Temples, Khajuraho",
+   "Near Western Group (southwest of Shiva Sagar lake), Khajuraho",
+   "Eastern Group, Khajuraho",
+   "Near Western Group of Temples, Khajuraho"
+  ]
+ },
+ "Varanasi": {
+  "places": [
+   {
+    "name": "Kashi Vishwanath Temple",
+    "area": "Vishwanath Gali / Lahori Tola, Old City",
+    "category": "Heritage",
+    "hours": "3:00 AM - 11:00 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "One of Varanasi's most revered Shiva temples; the present structure was built in 1780 by Maharani Ahilyabai Holkar of Indore. General darshan is free, while the temple trust sells paid Sugam Darshan tickets for queue-free entry.",
+    "source": "https://shrikashivishwanath.org/general/rituals"
+   },
+   {
+    "name": "Dashashwamedh Ghat",
+    "area": "Dashashwamedh, Old City (near Kashi Vishwanath Temple)",
+    "category": "Culture",
+    "hours": "Open 24x7",
+    "visit": 45,
+    "ticket": 0,
+    "note": "The main ghat of the old city, where the Ganga Aarti is performed daily at dusk by a group of priests and runs about 45 minutes. No entrance fee is charged to watch the aarti from the ghat steps.",
+    "source": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi/dashashwamedh-ghat"
+   },
+   {
+    "name": "Assi Ghat",
+    "area": "Assi, southern end of the ghats near BHU",
+    "category": "Photography",
+    "hours": "Open 24x7",
+    "visit": 60,
+    "ticket": 0,
+    "note": "Assi Ghat stands where the Assi river meets the Ganga and hosts Subah-e-Banaras, a sunrise programme of Vedic chants, classical music and yoga. It is also a starting point for boat rides and holds an evening aarti in a quieter setting than Dashashwamedh.",
+    "source": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi/assi-ghat"
+   },
+   {
+    "name": "Ramnagar Fort",
+    "area": "Ramnagar, eastern bank of the Ganga opposite Tulsi Ghat",
+    "category": "Architecture",
+    "hours": "10:00 AM - 5:00 PM",
+    "visit": 90,
+    "ticket": 50,
+    "note": "An 18th-century red sandstone fort built in Mughal style by Maharaja Balwant Singh and still the ancestral home of the Maharaja of Banaras. Its museum holds royal costumes, palanquins, vintage cars and an astronomical clock; the museum ticket is widely quoted at about INR 50 for Indian adults, but published figures vary, so confirm at the gate.",
+    "source": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi/ramnagar-fort"
+   },
+   {
+    "name": "Sarnath Archaeological Museum",
+    "area": "Sarnath, about 10 km north-east of the city",
+    "category": "Museum",
+    "hours": "10:00 AM - 5:00 PM (closed Fridays)",
+    "visit": 60,
+    "ticket": 5,
+    "note": "The Archaeological Survey of India site museum at Sarnath holds the original Lion Capital of Ashoka, which is India's national emblem, along with Buddhist sculptures from the 3rd century BCE to the 12th century CE. Museum entry is INR 5 per person; the adjoining Dhamek Stupa and excavated ruins are ticketed separately.",
+    "source": "https://kashi.gov.in/listing-details/sarnath-museum"
+   },
+   {
+    "name": "Banarasi Silk Shopping (Vishwanath Lane & Godowlia Market)",
+    "area": "Vishwanath Lane, Godowlia and Thatheri Bazaar, Old City",
+    "category": "Food & shopping",
+    "hours": "Shops set their own hours",
+    "visit": 90,
+    "ticket": 0,
+    "note": "Banaras brocades and sarees are handwoven silk with zari work and hold a Geographical Indication tag for the Varanasi region. Vishwanath Lane, Godowlia Market and Thatheri Bazaar are the traditional shopping lanes, and official tourism guidance points visitors to state-run handloom emporia for fixed prices and assured quality.",
+    "source": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi/unveiling-shoppers-paradise-in-varanasi"
+   }
+  ],
+  "area_order": [
+   "Vishwanath Gali / Lahori Tola, Old City",
+   "Dashashwamedh, Old City (near Kashi Vishwanath Temple)",
+   "Assi, southern end of the ghats near BHU",
+   "Ramnagar, eastern bank of the Ganga opposite Tulsi Ghat",
+   "Sarnath, about 10 km north-east of the city",
+   "Vishwanath Lane, Godowlia and Thatheri Bazaar, Old City"
+  ]
+ },
+ "Hampi": {
+  "places": [
+   {
+    "name": "Virupaksha Temple",
+    "area": "Hampi Bazaar",
+    "category": "Culture",
+    "hours": "6:00 AM - 12:00 PM and 4:30 PM - 9:00 PM",
+    "visit": 60,
+    "ticket": 0,
+    "note": "The only temple in Hampi still in daily worship, dedicated to Lord Shiva as Virupaksha (also called Pampapati); its eastern gopuram is nine storeys and about 50 m tall. Entry is free, though a small camera fee may apply.",
+    "source": "https://www.incredibleindia.gov.in/en/karnataka/hampi/virupaksha-temple"
+   },
+   {
+    "name": "Vitthala Temple Complex (Stone Chariot)",
+    "area": "Vitthala Temple complex, near the Tungabhadra river",
+    "category": "Architecture",
+    "hours": "8:30 AM - 5:30 PM",
+    "visit": 90,
+    "ticket": 40,
+    "note": "The masterpiece of Vijayanagara temple architecture, its courtyard holds the Stone Chariot, a granite shrine to Garuda that appears on India's 50-rupee note. One ASI ticket (40 INR for Indian visitors) also covers the Lotus Mahal and Elephant Stables on the same day; figures are widely cited and may change without notice.",
+    "source": "https://www.incredibleindia.gov.in/en/karnataka/hampi/vitthala-temple-complex"
+   },
+   {
+    "name": "Lotus Mahal",
+    "area": "Zenana Enclosure, Royal Centre",
+    "category": "Architecture",
+    "hours": "8:00 AM - 6:00 PM",
+    "visit": 30,
+    "ticket": 40,
+    "note": "A graceful pavilion named for its lotus-like design, built in a blend of Hindu and Indo-Islamic styles within the Zenana (royal women's) enclosure. Entry is covered by the same ASI ticket as the Vitthala Temple and Elephant Stables, so the 40 INR figure is a shared, widely cited price.",
+    "source": "https://karnatakatourism.org/en/attractions/lotus-mahal"
+   },
+   {
+    "name": "Elephant Stables",
+    "area": "Royal Enclosure, near the Zenana Enclosure",
+    "category": "Heritage",
+    "hours": "9:00 AM - 5:00 PM",
+    "visit": 30,
+    "ticket": 40,
+    "note": "A long building of eleven domed chambers that once housed the empire's royal elephants, showing a blend of Hindu and Indo-Islamic architecture. Entry is covered by the same ASI ticket as the Vitthala Temple and Lotus Mahal, so the 40 INR figure is a shared, widely cited price.",
+    "source": "https://www.incredibleindia.gov.in/en/karnataka/hampi/elephant-stables"
+   },
+   {
+    "name": "Queen's Bath",
+    "area": "Royal Enclosure area, near Kamalapura",
+    "category": "Heritage",
+    "hours": "8:00 AM - 5:30 PM",
+    "visit": 20,
+    "ticket": 0,
+    "note": "A royal bathing pavilion with a plain exterior but an ornate interior built around a sunken 1.8 m pool, supplied by an ancient aqueduct system. Entry is free.",
+    "source": "https://www.incredibleindia.gov.in/en/karnataka/hampi/queens-bath"
+   },
+   {
+    "name": "Hemakuta Hill Temple Complex",
+    "area": "Hemakuta Hill, near Hampi Bazaar",
+    "category": "Photography",
+    "hours": "6:00 AM - 6:00 PM",
+    "visit": 45,
+    "ticket": 0,
+    "note": "A hilltop cluster of early temples and shrines dated to roughly the 9th-14th centuries, offering wide views over the Hampi ruins and landscape. It is especially popular at sunrise and sunset, and entry is free.",
+    "source": "https://www.incredibleindia.gov.in/en/karnataka/hampi/hemakuta-hill-temple-complex"
+   }
+  ],
+  "area_order": [
+   "Hampi Bazaar",
+   "Vitthala Temple complex, near the Tungabhadra river",
+   "Zenana Enclosure, Royal Centre",
+   "Royal Enclosure, near the Zenana Enclosure",
+   "Royal Enclosure area, near Kamalapura",
+   "Hemakuta Hill, near Hampi Bazaar"
+  ]
+ }
+}
